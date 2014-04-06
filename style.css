@@ -1,1 +1,13 @@
 .jumbotron{background-color: #CEECF5;}
+
+.jumbotron {
+      background: url('http://lasvegas.informermg.com/files/2013/11/Nicolas-Cage.jpg') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+	color: #fff;
+}
+
+h1 {font-family: 'Bangers', cursive;}
+h2 {font-family: 'Special Elite', cursive;}
